@@ -294,9 +294,9 @@ projects[jquery_colorpicker][version] = 1.3
 
 projects[languageicons][version] = 1.1
 
-projects[leaflet][version] = 1.4
+;projects[leaflet][version] = 1.4
 
-projects[leaflet_more_maps][version] = 1.17
+;projects[leaflet_more_maps][version] = 1.17
 
 projects[less][version] = 4.0
 
@@ -564,7 +564,7 @@ libraries[ckeditor][directory_name] = ckeditor
 libraries[ckeditor][type] = library
 libraries[ckeditor][destination] = libraries
 libraries[ckeditor][download][type] = get
-libraries[ckeditor][download][url] = https://ckeditor.com/cke4/online-builder/releases/minified/4.14.1/icy_orange/0.9/ckeditor_4.14.1_1d4d68949fc8.zip
+libraries[ckeditor][download][url] = https://download.cksource.com/CKEditor/CKEditor/CKEditor%204.22.1/ckeditor_4.22.1_full.zip
 
 ; colorbox
 libraries[colorbox][directory_name] = colorbox
@@ -611,7 +611,7 @@ libraries[leaflet][directory_name] = leaflet
 libraries[leaflet][type] = library
 libraries[leaflet][destination] = libraries
 libraries[leaflet][download][type] = get
-libraries[leaflet][download][url] = http://cdn.leafletjs.com/leaflet/v1.0.3/leaflet.zip
+libraries[leaflet][download][url] = https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.js
 
 ; less.php
 libraries[less.php][directory_name] = less.php
@@ -695,7 +695,7 @@ libraries[jquery.timepicker][directory_name] = jquery.timepicker
 libraries[jquery.timepicker][type] = library
 libraries[jquery.timepicker][destination] = libraries
 libraries[jquery.timepicker][download][type] = get
-libraries[jquery.timepicker][download][url] = https://fgelinas.com/code/timepicker/releases/jquery-ui-timepicker-0.3.3.zip
+libraries[jquery.timepicker][download][url] = https://cdnjs.cloudflare.com/ajax/libs/timepicker/1.0.0/jquery.timepicker.min.js
 
 ; footable
 libraries[FooTable][directory_name] = FooTable
